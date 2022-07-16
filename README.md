@@ -1,7 +1,7 @@
 # 🎓 Education
-### **Sogang University**
-> **_Bachelor of Science in Engineering, Computer Science and Engineering_**  
-> **_Bachelor of Science, Mathematics_**  
+**Sogang University**
+> _Bachelor of Science in Engineering, **Computer Science and Engineering**_  
+> _Bachelor of Science, **Mathematics**_  
 
 <br/>
 
