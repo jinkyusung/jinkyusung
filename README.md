@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&customColorList=0&height=120&section=header&text=Jinkyu%20Sung&fontSize=50&fontColor=7A4069)
+
 # 🎓 Education
 **Sogang University**
 > _Bachelor of Science in Engineering - BSE, **Computer Science and Engineering**_  
