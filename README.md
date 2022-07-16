@@ -1,6 +1,6 @@
 # 🎓 Education
 
-### <img src="https://i.ibb.co/dPJnyJH/2.png" height=35> [**Sogang University**](https://sogang.ac.kr)
+### [**Sogang University**](https://sogang.ac.kr)
 
 > **_Bachelor of Science in Engineering, Computer Science and Engineering_**  
 > **_Bachelor of Science, Mathematics_**  
