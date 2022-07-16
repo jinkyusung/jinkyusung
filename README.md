@@ -1,12 +1,23 @@
 # 🎓 Education
-
-[**Sogang University**](https://sogang.ac.kr)
-
+### **Sogang University**
 > **_Bachelor of Science in Engineering, Computer Science and Engineering_**  
 > **_Bachelor of Science, Mathematics_**  
 
+<br/>
+
+# 🤔 Interest
+🔸Artificial Intelligence  
+🔸Computer Vision  
+🔸Machine Learning  
+🔸Data Science  
+🔸Bigdata Engineering  
+
+<br/>
+
+# 🔨 Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungjk1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 
 # 📨 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/sungjk/)
