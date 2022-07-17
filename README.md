@@ -11,10 +11,10 @@
 
 # 🤔 Interest
 Artificial Intelligence  
-🔸Computer Vision  
-🔸Machine Learning  
-🔸Data Science  
-🔸Bigdata Engineering  
+* Computer Vision  
+* Machine Learning  
+* Data Science  
+* Bigdata Engineering  
 
 <br/>
 
