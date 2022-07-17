@@ -10,7 +10,7 @@
 <br/>
 
 # 🤔 Interest
-Artificial Intelligence  
+* Artificial Intelligence  
 * Computer Vision  
 * Machine Learning  
 * Data Science  
