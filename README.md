@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0&height=120&section=header&text=Jinkyu%20Sung&fontSize=50&fontColor=006E7F)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=170&section=header&text=Jinkyu%20Sung&fontAlign=25&fontAlignY=50&fontSize=60&fontColor=FFFFFF)
 
 # 🎓 Education
 **Sogang University**
