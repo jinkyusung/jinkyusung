@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=170&section=header&text=About%20Me&fontAlign=24&fontAlignY=45&fontSize=60&fontColor=FFFFFF)
-
 # 🎓 Education
 **Sogang University**
 > _Bachelor of Science in Engineering - BSE, **Computer Science and Engineering**_  
