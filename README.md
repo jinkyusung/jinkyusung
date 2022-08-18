@@ -3,8 +3,6 @@
 > _Bachelor of Science in Engineering - BSE, **Computer Science and Engineering**_  
 > _Bachelor of Science - BS, **Mathematics**_  
 
-**CGPA** 3.71 / 4.3
-
 <br/>
 
 # 🤔 Interest
