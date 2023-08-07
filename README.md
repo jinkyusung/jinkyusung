@@ -6,11 +6,9 @@
 <br/>
 
 # 🤔 Interest
-* Artificial Intelligence  
-* Computer Vision  
 * Machine Learning  
 * Data Science  
-* Bigdata Engineering  
+* Data analysis and prediction-based decision making  
 
 <br/>
 
