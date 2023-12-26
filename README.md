@@ -6,9 +6,9 @@
 <br/>
 
 # 🤔 Interest
-* Machine Learning  
-* Data Science  
-* Data analysis and prediction-based decision making  
+* RecSys
+* Casual Inference  
+* Data analysis and prediction-based decision making
 
 <br/>
 
